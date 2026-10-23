@@ -1,0 +1,6 @@
+# GARNT TOOL REJOIN - Python dependencies (Termux / Android)
+# Install: pip install -r requirements.txt
+# These two libraries are enough; everything else is Python's standard library.
+
+rich        # Terminal UI: tables, live status panel, colors, Thai-safe prompts and progress
+requests    # Roblox API calls (cookie validation, presence lookup) and Discord webhook delivery
